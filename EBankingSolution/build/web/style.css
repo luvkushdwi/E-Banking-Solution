@@ -1,0 +1,46 @@
+
+            #main
+            {
+                width:400px;
+                height:410px;
+               border: 2px solid #0f5096;
+                margin: 0px auto;
+                margin-top: 100px;
+                box-shadow: 0px 0px 10px black ;
+                background: linear-gradient(#414d6b,#1e2c4f);
+                padding:4px;
+                color:white;
+            }
+            #heading
+            {
+                
+                text-align: center;
+                font-family: cambria;
+                text-decoration: underline;
+                text-shadow: 1px 1px 1px black;
+            }
+            #main table
+            {
+                margin: 0px auto;
+                width:80%;
+            }
+            .mybtn
+            {
+                background-color:white;
+                color:#414d6b;
+                height:37px;
+                width:310px;
+                border:0px solid;
+                border-radius: 10px;
+                box-shadow: 1px 1px 2px white;
+                font-size:18px;
+                font-family: cambria;
+                cursor: pointer;
+                font-weight: bold;
+                text-shadow: 1px 1px 2px white;
+            }
+            
+            .txt{
+                font-size:17px;
+                font-family: cambria;
+            }
